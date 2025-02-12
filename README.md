@@ -3,7 +3,7 @@ Aplicação Front-End em Next.js - React.
 - Integrantes:
 
 • Paulo Henrique 
-• Paulo Rodrogues 
+• Paulo Rodrigues 
 
 - Definição do projeto:
 
